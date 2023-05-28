@@ -1,0 +1,191 @@
+
+
+.banner{
+    margin-left: 320px;
+    width:850px; 
+    height:350px;
+}
+.banner2{
+    margin-left: 300px;
+    width:850px; 
+    height:350px;
+}
+.barra{
+    font-size:  25px;
+    margin-left: 160px;
+    color:black;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.imagen{
+    margin-left: 350px;
+    margin-top: 100px;
+}
+
+.marca{
+    background-image:url(marcafondo2.jpg) ;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.logo{
+    margin-top: 10%; 
+    margin-left: 85%;
+    width: 300px;
+    height: 300px;
+}
+
+.login2{
+    background-image: url(login.jpeg);
+    background-size: cover;
+    background-repeat:no-repeat ;
+}   
+.login{
+    background-color: rgba(8, 8, 8, 0.562);
+color: white;
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+font-size: 20px;
+width: 400px;
+height: 500px;
+margin-left: 540px;
+margin-top: 180px;
+}
+.inventario{
+
+    background-image:url("Pors3.jpg") ;
+    
+    width: 1450px;
+    
+    height: 650px;
+    
+    background-size: cover;
+    
+    background-repeat: no-repeat;
+    
+    animation-name: ADAnimation;
+    
+    animation-duration: 15s;
+    
+    animation-delay: 5s;
+    
+    animation-iteration-count: infinite;
+    
+    
+    
+    
+    }
+    
+
+    @keyframes ADAnimation{
+     0%{ background-image:url("slide1.jpg")}
+
+    50%{ background-image:url("slide2.png")}
+    
+    100%{ background-image:url("slide3.png")}
+
+    }
+
+.datos{
+    font-size: 30px;
+    color: aliceblue;
+}
+
+#datos{
+    background-color: rgba(36, 35, 35, 0.61);
+}
+
+
+.grafico{
+    float: right;
+    width: 350px;
+    height: 380px;
+}
+.no2{
+width: 700px;
+height: 400px;
+margin-right: 100px;
+margin-bottom: 50px;
+}
+button{
+    width: 150px;
+    height: 25px;
+    font-size: 15px;
+   
+}
+.Lamborghini{
+    margin-top: 100px;
+    margin-right: 100px;
+
+}
+.no{
+    color:white;
+}
+.iframe{
+    float: right;
+}
+.pagani{
+    margin-top: 95px;
+    margin-left:100px;
+ 
+}
+.buggatichiron{
+margin-top: 50px;
+margin-left: 30px;
+margin-right:60px ;
+}
+
+.inicio{
+background-image: url();
+background-size: cover;
+}
+
+
+.carros{
+    
+    margin-left: 50px;
+    margin-bottom: 50px;
+    margin-top: 50px;
+    
+}
+.Home{
+background-image:url(home-fondo.png);
+background-size:cover;
+background-repeat: no-repeat;
+width: 100%;
+height: 100%;
+
+
+}
+.carros-fondo{
+  
+    background-color: black;
+}
+
+div{
+    float: left;
+    margin-left: 50px;
+}
+
+.lista{
+    font-size: 20px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: white;
+    border: none;
+    background-color: rgba(122, 122, 107, 0.644);
+    width: 300px;
+    
+}
+.inventario{
+    
+    background-image: url(inventariofondo.jpg);
+    background-repeat: no-repeat;
+}
+.abc{
+    font-size:  25px;
+    margin-left: 150px;
+    color:rgb(255, 239, 239);
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.A{
+background-color: rgba(0, 0, 0, 0.164);
+}
